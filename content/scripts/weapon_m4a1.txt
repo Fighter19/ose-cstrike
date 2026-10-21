@@ -1,0 +1,23 @@
+// M4A1: models and sounds from the game's content; numbers approximate (see README.md).
+WeaponData
+{
+	"printname"		"M4A1"
+	"viewmodel"		"models/weapons/v_rif_m4a1.mdl"
+	"playermodel"	"models/weapons/w_rif_m4a1.mdl"
+	"BuiltRightHanded"	"0"
+	"bucket"		"0"
+	"bucket_position"	"1"
+	"clip_size"		"30"
+	"maxclips"		"3"
+	"firerate"		"0.09"
+	"damage"		"33"
+	"spread"		"3.0"
+	"verticalkick"	"0.8"
+	"additionalkick"	"0.4"
+	"punchratio"	"1"
+	SoundData
+	{
+		"single_shot"	"Weapon_M4A1.Single"
+		"empty"			"Default.ClipEmpty_Rifle"
+	}
+}

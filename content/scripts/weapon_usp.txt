@@ -1,0 +1,23 @@
+// USP .45: models and sounds from the game's content; numbers approximate (see README.md).
+WeaponData
+{
+	"printname"		"USP .45"
+	"viewmodel"		"models/weapons/v_pist_usp.mdl"
+	"playermodel"	"models/weapons/w_pist_usp.mdl"
+	"BuiltRightHanded"	"0"
+	"bucket"		"1"
+	"bucket_position"	"1"
+	"clip_size"		"12"
+	"maxclips"		"8"
+	"firerate"		"0.15"
+	"damage"		"34"
+	"spread"		"3.0"
+	"verticalkick"	"0.8"
+	"additionalkick"	"0.4"
+	"punchratio"	"1"
+	SoundData
+	{
+		"single_shot"	"Weapon_USP.Single"
+		"empty"			"Default.ClipEmpty_Pistol"
+	}
+}

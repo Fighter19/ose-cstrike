@@ -1,0 +1,19 @@
+// Knife: models and sounds from the game's content; numbers approximate (see README.md).
+WeaponData
+{
+	"printname"		"Knife"
+	"viewmodel"		"models/weapons/v_knife_t.mdl"
+	"playermodel"	"models/weapons/w_knife_t.mdl"
+	"BuiltRightHanded"	"0"
+	"bucket"		"2"
+	"bucket_position"	"0"
+	"firerate"		"0.4"
+	"damage"		"20"
+	SoundData
+	{
+		"melee_hit"			"Weapon_Knife.Hit"
+		"melee_hit_world"	"Weapon_Knife.HitWall"
+		"melee_miss"		"Weapon_Knife.Slash"
+		"deploy"			"Weapon_Knife.Deploy"
+	}
+}

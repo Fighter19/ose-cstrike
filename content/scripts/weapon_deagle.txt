@@ -1,0 +1,23 @@
+// Desert Eagle: models and sounds from the game's content; numbers approximate (see README.md).
+WeaponData
+{
+	"printname"		"Desert Eagle"
+	"viewmodel"		"models/weapons/v_pist_deagle.mdl"
+	"playermodel"	"models/weapons/w_pist_deagle.mdl"
+	"BuiltRightHanded"	"0"
+	"bucket"		"1"
+	"bucket_position"	"2"
+	"clip_size"		"7"
+	"maxclips"		"5"
+	"firerate"		"0.225"
+	"damage"		"54"
+	"spread"		"3.0"
+	"verticalkick"	"2.0"
+	"additionalkick"	"1"
+	"punchratio"	"1"
+	SoundData
+	{
+		"single_shot"	"Weapon_DEagle.Single"
+		"empty"			"Default.ClipEmpty_Pistol"
+	}
+}

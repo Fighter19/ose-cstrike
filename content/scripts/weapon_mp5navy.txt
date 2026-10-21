@@ -1,0 +1,23 @@
+// MP5: models and sounds from the game's content; numbers approximate (see README.md).
+WeaponData
+{
+	"printname"		"MP5"
+	"viewmodel"		"models/weapons/v_smg_mp5.mdl"
+	"playermodel"	"models/weapons/w_smg_mp5.mdl"
+	"BuiltRightHanded"	"0"
+	"bucket"		"0"
+	"bucket_position"	"2"
+	"clip_size"		"30"
+	"maxclips"		"4"
+	"firerate"		"0.075"
+	"damage"		"26"
+	"spread"		"4.0"
+	"verticalkick"	"0.5"
+	"additionalkick"	"0.25"
+	"punchratio"	"1"
+	SoundData
+	{
+		"single_shot"	"Weapon_MP5Navy.Single"
+		"empty"			"Default.ClipEmpty_Rifle"
+	}
+}

@@ -1,0 +1,23 @@
+// AK-47: models and sounds from the game's content; numbers approximate (see README.md).
+WeaponData
+{
+	"printname"		"AK-47"
+	"viewmodel"		"models/weapons/v_rif_ak47.mdl"
+	"playermodel"	"models/weapons/w_rif_ak47.mdl"
+	"BuiltRightHanded"	"0"
+	"bucket"		"0"
+	"bucket_position"	"0"
+	"clip_size"		"30"
+	"maxclips"		"3"
+	"firerate"		"0.1"
+	"damage"		"36"
+	"spread"		"4.0"
+	"verticalkick"	"1.2"
+	"additionalkick"	"0.6"
+	"punchratio"	"1"
+	SoundData
+	{
+		"single_shot"	"Weapon_AK47.Single"
+		"empty"			"Default.ClipEmpty_Rifle"
+	}
+}

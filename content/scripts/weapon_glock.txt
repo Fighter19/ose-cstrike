@@ -1,0 +1,23 @@
+// Glock 18: models and sounds from the game's content; numbers approximate (see README.md).
+WeaponData
+{
+	"printname"		"Glock 18"
+	"viewmodel"		"models/weapons/v_pist_glock18.mdl"
+	"playermodel"	"models/weapons/w_pist_glock18.mdl"
+	"BuiltRightHanded"	"0"
+	"bucket"		"1"
+	"bucket_position"	"0"
+	"clip_size"		"20"
+	"maxclips"		"6"
+	"firerate"		"0.15"
+	"damage"		"25"
+	"spread"		"3.0"
+	"verticalkick"	"0.5"
+	"additionalkick"	"0.25"
+	"punchratio"	"1"
+	SoundData
+	{
+		"single_shot"	"Weapon_Glock.Single"
+		"empty"			"Default.ClipEmpty_Pistol"
+	}
+}

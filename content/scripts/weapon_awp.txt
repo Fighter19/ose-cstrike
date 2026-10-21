@@ -1,0 +1,23 @@
+// AWP: models and sounds from the game's content; numbers approximate (see README.md).
+WeaponData
+{
+	"printname"		"AWP"
+	"viewmodel"		"models/weapons/v_snip_awp.mdl"
+	"playermodel"	"models/weapons/w_snip_awp.mdl"
+	"BuiltRightHanded"	"0"
+	"bucket"		"0"
+	"bucket_position"	"3"
+	"clip_size"		"10"
+	"maxclips"		"3"
+	"firerate"		"1.455"
+	"damage"		"115"
+	"spread"		"1.0"
+	"verticalkick"	"3.0"
+	"additionalkick"	"1.5"
+	"punchratio"	"1"
+	SoundData
+	{
+		"single_shot"	"Weapon_AWP.Single"
+		"empty"			"Default.ClipEmpty_Rifle"
+	}
+}
