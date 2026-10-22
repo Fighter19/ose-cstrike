@@ -4,6 +4,7 @@ WeaponData
 	"printname"		"Knife"
 	"viewmodel"		"models/weapons/v_knife_t.mdl"
 	"playermodel"	"models/weapons/w_knife_t.mdl"
+	"PlayerAnimationExtension"	"knife"
 	"BuiltRightHanded"	"0"
 	"bucket"		"2"
 	"bucket_position"	"0"

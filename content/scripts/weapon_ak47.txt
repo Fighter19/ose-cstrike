@@ -4,6 +4,7 @@ WeaponData
 	"printname"		"AK-47"
 	"viewmodel"		"models/weapons/v_rif_ak47.mdl"
 	"playermodel"	"models/weapons/w_rif_ak47.mdl"
+	"PlayerAnimationExtension"	"ak"
 	"BuiltRightHanded"	"0"
 	"bucket"		"0"
 	"bucket_position"	"0"

@@ -4,6 +4,7 @@ WeaponData
 	"printname"		"M4A1"
 	"viewmodel"		"models/weapons/v_rif_m4a1.mdl"
 	"playermodel"	"models/weapons/w_rif_m4a1.mdl"
+	"PlayerAnimationExtension"	"m4"
 	"BuiltRightHanded"	"0"
 	"bucket"		"0"
 	"bucket_position"	"1"

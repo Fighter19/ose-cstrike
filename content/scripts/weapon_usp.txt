@@ -4,6 +4,7 @@ WeaponData
 	"printname"		"USP .45"
 	"viewmodel"		"models/weapons/v_pist_usp.mdl"
 	"playermodel"	"models/weapons/w_pist_usp.mdl"
+	"PlayerAnimationExtension"	"pistol"
 	"BuiltRightHanded"	"0"
 	"bucket"		"1"
 	"bucket_position"	"1"

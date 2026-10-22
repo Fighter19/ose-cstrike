@@ -4,6 +4,7 @@ WeaponData
 	"printname"		"AWP"
 	"viewmodel"		"models/weapons/v_snip_awp.mdl"
 	"playermodel"	"models/weapons/w_snip_awp.mdl"
+	"PlayerAnimationExtension"	"awp"
 	"BuiltRightHanded"	"0"
 	"bucket"		"0"
 	"bucket_position"	"3"

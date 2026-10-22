@@ -4,6 +4,7 @@ WeaponData
 	"printname"		"Glock 18"
 	"viewmodel"		"models/weapons/v_pist_glock18.mdl"
 	"playermodel"	"models/weapons/w_pist_glock18.mdl"
+	"PlayerAnimationExtension"	"pistol"
 	"BuiltRightHanded"	"0"
 	"bucket"		"1"
 	"bucket_position"	"0"
